@@ -1,0 +1,14 @@
+                           CENTRO DE CAPACITACION                               
+ FECHA: 28/04/2023         EMPLEADOS DE LA EMPRESA                 PAGINA:   1  
+ ------------------------------------------------------------------------------ 
+    NUMERO            NOMBRE               STATUS  DEPTO PUESTO    SALARIO      
+ ------------------------------------------------------------------------------ 
+      100    FERNANDO TOLEDO ESPEJEL           8    200    30      32,000.50    
+      200    JOSE MARIA MEDINA                 5    100    10      28,000.60    
+      300    ROBERTO PEREZ GARCIA              8    020    50      56,000.70    
+      400    VENUSTIANO ESTRADA MENDEZ         7    620    70      21,000.00    
+      500    VALENTIN JIMENEZ OJEDA            8    100    10      19,000.80    
+
+ TOTAL DE EMPLEADOS LEIDOS  :      5                                            
+ TOTAL DE EMPLEADOS IMPRESOS:      5                                            
+ SUMA TOTAL DE SALARIOS    :     $156,002.60                                    
